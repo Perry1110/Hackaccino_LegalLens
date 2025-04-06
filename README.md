@@ -2,7 +2,6 @@
 
 Legal Lens is an AI-powered legal assistant that helps users analyze legal cases, determine applicable Indian Penal Code (IPC) sections, and find similar precedents. It combines a Next.js frontend with machine learning models trained on Indian law to provide accurate and insightful legal analysis.
 
-![Legal Lens](https://example.com/legal-lens-screenshot.png)
 
 ## Features
 

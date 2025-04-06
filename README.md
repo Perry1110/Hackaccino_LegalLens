@@ -9,7 +9,6 @@ Legal Lens is an AI-powered legal assistant that helps users analyze legal cases
 - 📚 *Legal Reference*: Access detailed explanations of IPC sections and legal provisions
 - 🧠 *AI Recommendations*: Get AI-powered recommendations based on case details
 - 👨‍⚖ *Similar Cases*: Find similar precedents from Supreme Court and High Court judgments
-- 📝 *Case Filing*: Generate FIR (First Information Report) drafts based on case details
 - 🔐 *User Authentication*: Secure user accounts and data
 
 ## Project Structure
